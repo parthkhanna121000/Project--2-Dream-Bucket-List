@@ -6,7 +6,7 @@ Built using **HTML** and **CSS**, this project is a fun way to practice lists, i
 ---
 
 ## 🖼️ Project Preview
-![Preview](./preview.png)
+![Preview](./preview1.png)
 ![Preview 2](./preview2.png)
 
 ---
